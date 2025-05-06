@@ -4,7 +4,7 @@
 This project aims to automate the sentiment classification of airline passenger reviews using a hybrid approach combining rule-based sentiment analysis (VADER, TextBlob) with machine learning ensemble models. The output helps airlines gain insights into customer experiences, classify sentiments as positive, neutral, or negative, and predict whether a customer would recommend the airline.
 
 ## 📊 Dataset  
-**Source**: Kaggle Airline Reviews Dataset  
+**Source**: Kaggle Airline Reviews Dataset  (https://www.kaggle.com/code/muhammadadeelabid/eda-preprocessing-ensemble-learning-86 )
 
 **Rows**: ~23,000 reviews  
 
